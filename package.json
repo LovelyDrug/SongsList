@@ -1,0 +1,27 @@
+{
+  "name": "noname",
+  "version": "1.0.0",
+  "private": true,
+  "description": "List creator for music fans to save their favourite playlists",
+  "author": "Sukhanova Mariya <suhanovamasha21@email.com>",
+  "license": "MIT",
+  "main": "SongsList",
+  "scripts": {
+    "test": "npm run -s lint",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LovelyDrug/SongsList.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LovelyDrug/SongsList/issues"
+  },
+  "homepage": "https://github.com/LovelyDrug/SongsList",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0"
+  }
+}
