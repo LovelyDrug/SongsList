@@ -1,0 +1,17 @@
+C:\Users\dones\source\repos\Project0\Project0\bin\Debug\Project0.exe.config
+C:\Users\dones\source\repos\Project0\Project0\bin\Debug\Project0.exe
+C:\Users\dones\source\repos\Project0\Project0\bin\Debug\Project0.pdb
+C:\Users\dones\source\repos\Project0\Project0\obj\Debug\Project0.csprojAssemblyReference.cache
+C:\Users\dones\source\repos\Project0\Project0\obj\Debug\Project0.Form1.resources
+C:\Users\dones\source\repos\Project0\Project0\obj\Debug\Project0.Properties.Resources.resources
+C:\Users\dones\source\repos\Project0\Project0\obj\Debug\Project0.csproj.GenerateResource.cache
+C:\Users\dones\source\repos\Project0\Project0\obj\Debug\Project0.csproj.CoreCompileInputs.cache
+C:\Users\dones\source\repos\Project0\Project0\obj\Debug\Project0.exe
+C:\Users\dones\source\repos\Project0\Project0\obj\Debug\Project0.pdb
+C:\Users\dones\source\repos\Project0\Project0\obj\Debug\Project0.AddForm.resources
+C:\Users\dones\source\repos\Project0\Project0\obj\Debug\Project0.RemoveForm.resources
+C:\Users\dones\source\repos\Project0\Project0\obj\Debug\Project0.SearchForm.resources
+C:\Users\dones\source\repos\Project0\Project0\bin\Debug\Project0.exe.manifest
+C:\Users\dones\source\repos\Project0\Project0\bin\Debug\Project0.application
+C:\Users\dones\source\repos\Project0\Project0\obj\Debug\Project0.exe.manifest
+C:\Users\dones\source\repos\Project0\Project0\obj\Debug\Project0.application
